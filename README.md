@@ -1,18 +1,80 @@
 <div align="center">
-  <h2>Fajar Pratama (@djdadevilmark)</h2>
-  <p><i>We build our computers the way we build our cities: over time, without a plan, on top of ruins.</i></p>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=solidity,github,cpp,kotlin,vue,ts,swift,py,django&theme=dark" height="48" />
+
+# djdadevilmark
+
+### Web3 builder · Blockchain engineer · Developer relations & community leader
+
+[![GitHub followers](https://img.shields.io/github/followers/djdadevilmark?label=GitHub&style=flat-square)](https://github.com/djdadevilmark)
+
 </div>
 
-### About
-Hi! I am an edge computing developer. I deploy logic as close to the user as possible using CDN edge workers to achieve sub-millisecond response times globally.
+I build at the frontier of **blockchain infrastructure, privacy, cross-chain systems, and developer communities**. I'm an IIT Roorkee engineer with 5+ years in Web3—equally at home shipping prototypes, supporting ecosystems, and helping ambitious teams turn hackathon ideas into real products.
 
-### What I Work On
-- Optimizing database queries, caching layers, and developer workflows
-- Designing fault-tolerant microservices and event-driven pipelines
+> **Open to:** high-conviction Web3 collaborations, protocol engineering, DevRel, ecosystem growth, and meaningful open source.
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=djdadevilmark&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=djdadevilmark&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155" />
+## At a glance
+
+- 🏆 **8+ global Web3 hackathon wins & grants** — including 1st place at TON Open League and ETHIndia 2024
+- 💸 **$20.5K+ in highlighted prizes and grants** across TON, Arbitrum, Stellar, Polkadot, Arweave, ETHGlobal, and ETHIndia
+- 🌐 **75K+ community audience** across X and LinkedIn; **7M+ X impressions** in a recent three-month period
+- 🇮🇳 **India Lead**, Midnight Network Nightforce Program
+- 🤝 **Wormhole Foundation Fellow** · **Superteam Talent Scout** · member of **Shipyard**
+
+## What I work on
+
+> Smart contracts & blockchain apps · Web3 protocol ecosystems · Privacy & ZK-adjacent systems
+>
+> Solana & EVM community building · Developer relations · Hackathons, workshops & education
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ts,js,react,nodejs,mongodb,git,githubactions" alt="Blockchain and full-stack toolkit" />
+</p>
+
+## Selected recognition
+
+| Program | Outcome |
+| --- | --- |
+| TON Open League Hackathon | 🥇 1st place — $2,500 |
+| Arbitrum Stylus Blitz | Grant winner — $2,500 |
+| Stellar Builders Residency & Startup Camp | $10,000 in funding |
+| Polkadot Hacker House | 🥈 2nd place — $1,000 |
+| ETHIndia 2024 · Privacy Scaling Exploration | 🥇 1st place — $1,000 |
+| Arweave Hacker House | 🥉 3rd place — $2,000 |
+| ETHGlobal Buenos Aires | 4th place — $1,500 |
+
+## Ecosystem experience
+
+- **Blockchain Engineer** — Skatechain
+- **Growth Lead, Developer & DevRel** — Atheon Labs, San Francisco
+- **Growth Lead / Social & Community Manager** — Turbine Cash
+- **KOL & Content Creator** — Tunnl
+- Former ecosystem ambassador for **Avalanche, Alchemy, Arbitrum, and Akash Network**
+- **Web3 Maven** at Rise In; contributor to community-led Web3 events and hackathons
+- **Devconnect 2025 Scholar** — spent a month connecting with the Ethereum ecosystem in Argentina
+
+## Community is part of the product
+
+I mentor and judge builders at Rise In hackathons, Code Cubicles, Hack the Mountains, and Asset Merkle. I also host events that bring local developer communities closer to global protocols:
+
+- [Arbitrum Open House Gather — Delhi](https://luma.com/openhousegather-delhi)
+- [Akash Accelerate Watch Party — India](https://luma.com/9arpsmp5)
+- [AscendEX Bitcoin Pizza Party — Delhi](https://luma.com/lk6eoswb)
+
+## Builder journey
+
+- Mathematics & Computer Science engineering background at **IIT Roorkee**
+- School of Solana, Season 7 — **Ackee Blockchain**
+- Genesis cohort — **Rektoff Solana Rust Security Bootcamp**
+- Open-source contributor; participant in **Protocol Labs Dev Guild**, Timechain Summer of Code, and Social Summer of Code
+- PR Manager at **Cognizance**, IIT Roorkee's technical festival
+
+## Let's build
+
+If you're working on developer tools, privacy, cross-chain infrastructure, or the next great Web3 community, let's connect.
+
+<p>
+   ·
+   ·
+  <a href="https://farcaster.xyz/nakshatra">Farcaster</a> ·
+  
 </p>
